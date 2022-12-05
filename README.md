@@ -16,4 +16,4 @@ A basic reddit clone l build with Laravel and VueJs with the help of Inertia. Th
 ## Screenshot
 | <img  src="https://github.com/Tapiwa-1/Tapiwa-1/blob/main/redditdash.png"/> | <img  src="https://github.com/Tapiwa-1/Tapiwa-1/blob/main/redditpost.png"/> |
 | ------------- | ------------- |
-| <img  src="https://github.com/Tapiwa-1/Tapiwa-1/blob/main/redditcommunity.png"/> | <img  src="https://github.com/Tapiwa-1/Tapiwa-1/blob/main/redditcommunityabout"/> |
+| <img  src="https://github.com/Tapiwa-1/Tapiwa-1/blob/main/redditcommunity.png"/> | <img  src="https://github.com/Tapiwa-1/Tapiwa-1/blob/main/redditcommunityabout.png"/> |
